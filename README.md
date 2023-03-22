@@ -1,4 +1,4 @@
 # SemanaTec
 
 # Actividad - Estadística básica
-# Respuestas
+Respuestas
