@@ -1,2 +1,2 @@
 # SemanaTec
-Cambios en README - main
+Respuesta 07-2-actividad-visualizacion
